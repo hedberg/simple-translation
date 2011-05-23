@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-05-23 11:15+0200\n"
-"PO-Revision-Date: 2011-05-23 11:19+0100\n"
+"PO-Revision-Date: 2011-05-23 11:23+0100\n"
 "Last-Translator: Simon Hedberg <simon@in-formation.se>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
@@ -42,7 +42,7 @@ msgstr "Är du säker?"
 #: widgets.py:89
 #, python-format
 msgid "Delete: &quot;%s&quot; translation."
-msgstr "Radera: &quot;%s&quot; översättning."
+msgstr "Radera: &quot;%s&quot; översättning"
 
 #: test/testapp/models.py:11
 #: test/testapp/models.py:15
