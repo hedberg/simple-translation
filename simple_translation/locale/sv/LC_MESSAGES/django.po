@@ -1,0 +1,113 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-05-23 11:15+0200\n"
+"PO-Revision-Date: 2011-05-23 11:19+0100\n"
+"Last-Translator: Simon Hedberg <simon@in-formation.se>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: admin.py:49
+msgid "languages"
+msgstr "språk"
+
+#: admin.py:159
+#, python-format
+msgid "%(name)s object with primary key %(key)r does not exist."
+msgstr "%(name)s objekt med primärnyckel %(key)r finns inte."
+
+#: admin.py:162
+msgid "There only exists one translation for this page"
+msgstr "Det finns endast en översättning för denna sida"
+
+#: admin.py:172
+#, python-format
+msgid "%(obj_name)s with language %(language)s was deleted"
+msgstr "%(obj_name)s med språk %(language)s raderades"
+
+#: admin.py:184
+msgid "Are you sure?"
+msgstr "Är du säker?"
+
+#: widgets.py:89
+#, python-format
+msgid "Delete: &quot;%s&quot; translation."
+msgstr "Radera: &quot;%s&quot; översättning."
+
+#: test/testapp/models.py:11
+#: test/testapp/models.py:15
+msgid "entry"
+msgstr "inlägg"
+
+#: test/testapp/models.py:12
+msgid "entries"
+msgstr "inlägg"
+
+#: test/testapp/models.py:16
+msgid "Language"
+msgstr "Språk"
+
+#: test/testapp/models.py:17
+msgid "Title"
+msgstr "Översättning"
+
+#: test/testapp/models.py:18
+msgid "Slug"
+msgstr "URL-namn"
+
+#: test/testapp/models.py:19
+msgid "Published"
+msgstr "Publiceringsdatum"
+
+#: test/testapp/models.py:35
+msgid "entry title"
+msgstr "Översättning"
+
+#: test/testapp/models.py:36
+msgid "entry titles"
+msgstr "översättningar"
+
+#: test/testapp/templates/testapp/entrytitle_archive.html:3
+msgid "Latest entries"
+msgstr "Senaste inlägg"
+
+#: test/testapp/templates/testapp/entrytitle_archive.html:11
+msgid "No entries"
+msgstr "Inga inlägg"
+
+#: test/testapp/templates/testapp/entrytitle_archive_month.html:3
+#: test/testapp/templates/testapp/entrytitle_archive_year.html:3
+#: test/testapp/templates/testapp/entrytitle_day.html:3
+msgid "Entries for"
+msgstr "Inlägg från"
+
+#: test/testapp/templates/testapp/entrytitle_archive_month.html:10
+msgid "No entries for this month"
+msgstr "Inga inlägg för denna månad"
+
+#: test/testapp/templates/testapp/entrytitle_archive_year.html:8
+msgid "No entries for this year"
+msgstr "Inga inlägg för detta år"
+
+#: test/testapp/templates/testapp/entrytitle_day.html:11
+msgid "No entries for this day"
+msgstr "Inga inlägg från denna dag"
+
+#: test/testapp/templates/testapp/entrytitle_list.html:3
+msgid "Entries tagged"
+msgstr "Inlägg taggade"
+
+#: test/testapp/templates/testapp/entrytitle_list.html:12
+msgid "No entries tagged"
+msgstr "Inga inlägg taggade"
+
